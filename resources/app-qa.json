@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://www.google.com/",
+  "projectId": "cloud",
+  "defaultCommandTimeout": 10000,
+  "requestTimeout": 200000,
+  "pageLoadTimeout": 300000,
+  "env": {
+      "user": "",
+      "senha": "",
+      "endPointDemo": "https://httpbin.org/get"
+    }
+}
